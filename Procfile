@@ -1,1 +1,1 @@
-worker: python3 -m nicegrill
+worker: python -m nicegrill login
